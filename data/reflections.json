@@ -118,45 +118,5 @@
       }
     ],
     "createdAt": "2026-05-19T15:33:38.551Z"
-  },
-  {
-    "id": "36b7aaa6-c4b3-4401-a216-2d91c4c77cfd",
-    "text": "Paired with the team, reviewed feedback, and aligned on next steps.",
-    "wordCount": 11,
-    "category": "Collaborative",
-    "score": 4,
-    "matchedKeywords": [
-      "aligned",
-      "feedback",
-      "paired",
-      "team"
-    ],
-    "keywords": [
-      {
-        "word": "aligned",
-        "count": 1
-      },
-      {
-        "word": "feedback",
-        "count": 1
-      },
-      {
-        "word": "next",
-        "count": 1
-      },
-      {
-        "word": "paired",
-        "count": 1
-      },
-      {
-        "word": "reviewed",
-        "count": 1
-      },
-      {
-        "word": "steps",
-        "count": 1
-      }
-    ],
-    "createdAt": "2026-05-19T15:34:16.977Z"
   }
 ]

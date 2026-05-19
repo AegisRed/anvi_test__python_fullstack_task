@@ -40,3 +40,6 @@ npm test
 - Inline edit/delete for reflections.
 - Demo data loader.
 - Loading skeleton, empty state, toast notifications, and API error state.
+
+## Showcase
+![img1](/showcase/img.png)
