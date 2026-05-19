@@ -1,0 +1,162 @@
+[
+  {
+    "id": "20a59960-c34b-4322-bd00-f1f1c568252a",
+    "text": "Focused deep work today. Shipped the billing fix and completed the rollout.",
+    "wordCount": 12,
+    "category": "Productive",
+    "score": 3,
+    "matchedKeywords": [
+      "completed",
+      "focused",
+      "shipped"
+    ],
+    "keywords": [
+      {
+        "word": "billing",
+        "count": 1
+      },
+      {
+        "word": "completed",
+        "count": 1
+      },
+      {
+        "word": "deep",
+        "count": 1
+      },
+      {
+        "word": "fix",
+        "count": 1
+      },
+      {
+        "word": "focused",
+        "count": 1
+      },
+      {
+        "word": "rollout",
+        "count": 1
+      }
+    ],
+    "createdAt": "2026-05-19T15:32:56.728Z"
+  },
+  {
+    "id": "6a829328-ad17-42ce-b8c3-c822f402322c",
+    "text": "I feel stressed and blocked by the deadline. Too many bugs today.",
+    "wordCount": 12,
+    "category": "Stressed",
+    "score": 4,
+    "matchedKeywords": [
+      "blocked",
+      "bugs",
+      "deadline",
+      "stressed"
+    ],
+    "keywords": [
+      {
+        "word": "blocked",
+        "count": 1
+      },
+      {
+        "word": "bugs",
+        "count": 1
+      },
+      {
+        "word": "deadline",
+        "count": 1
+      },
+      {
+        "word": "feel",
+        "count": 1
+      },
+      {
+        "word": "many",
+        "count": 1
+      },
+      {
+        "word": "stressed",
+        "count": 1
+      }
+    ],
+    "createdAt": "2026-05-19T15:33:17.562Z"
+  },
+  {
+    "id": "ef017304-3165-4c5e-9993-23d31d72e30a",
+    "text": "Brainstormed a new design idea and explored a creative prototype.",
+    "wordCount": 10,
+    "category": "Creative",
+    "score": 5,
+    "matchedKeywords": [
+      "creative",
+      "design",
+      "explored",
+      "idea",
+      "prototype"
+    ],
+    "keywords": [
+      {
+        "word": "brainstormed",
+        "count": 1
+      },
+      {
+        "word": "creative",
+        "count": 1
+      },
+      {
+        "word": "design",
+        "count": 1
+      },
+      {
+        "word": "explored",
+        "count": 1
+      },
+      {
+        "word": "idea",
+        "count": 1
+      },
+      {
+        "word": "new",
+        "count": 1
+      }
+    ],
+    "createdAt": "2026-05-19T15:33:38.551Z"
+  },
+  {
+    "id": "36b7aaa6-c4b3-4401-a216-2d91c4c77cfd",
+    "text": "Paired with the team, reviewed feedback, and aligned on next steps.",
+    "wordCount": 11,
+    "category": "Collaborative",
+    "score": 4,
+    "matchedKeywords": [
+      "aligned",
+      "feedback",
+      "paired",
+      "team"
+    ],
+    "keywords": [
+      {
+        "word": "aligned",
+        "count": 1
+      },
+      {
+        "word": "feedback",
+        "count": 1
+      },
+      {
+        "word": "next",
+        "count": 1
+      },
+      {
+        "word": "paired",
+        "count": 1
+      },
+      {
+        "word": "reviewed",
+        "count": 1
+      },
+      {
+        "word": "steps",
+        "count": 1
+      }
+    ],
+    "createdAt": "2026-05-19T15:34:16.977Z"
+  }
+]
